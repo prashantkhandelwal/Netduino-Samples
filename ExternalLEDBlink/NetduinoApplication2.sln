@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetduinoApplication2", "NetduinoApplication2\NetduinoApplication2.csproj", "{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707C3BD5-B0B0-4D3E-A3F8-D713F4CF777E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
